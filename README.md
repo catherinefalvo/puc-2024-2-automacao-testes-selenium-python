@@ -1,10 +1,10 @@
-# Prática de Automação de Testes
+## Prática de Automação de Teste
 
 Este exemplo demonstra como automatizar um cenário simples usando o Selenium Webdriver em Python.
 
 ### Pré-requisitos
 
-1. O arquivo `sample-exercise.html` está hospedado no GitHub Pages para facilitar o acesso e permitir que o script de automação o utilize diretamente como uma página online. Isso simplifica a execução do código em ambientes como o Google Colab.
+1. O arquivo `sample-exercise.html` está localizado na pasta `docs` deste repositório e é servido como uma página online via GitHub Pages. Para facilitar o acesso, você pode encontrá-lo em [https://catherinefalvo.github.io/puc-2024-2-automacao-testes-selenium-python/sample-exercise.html](https://catherinefalvo.github.io/puc-2024-2-automacao-testes-selenium-python/sample-exercise.html). Essa configuração simplifica a execução do código em ambientes como o Google Colab.
 
 ### Cenário de Automação
 
